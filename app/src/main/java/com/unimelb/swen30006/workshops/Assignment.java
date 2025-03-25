@@ -1,9 +1,7 @@
 package com.unimelb.swen30006.workshops;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Date;
-import java.util.List;
 
 public class Assignment {
     private String description;
